@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
