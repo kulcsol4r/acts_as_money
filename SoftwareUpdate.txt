@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
